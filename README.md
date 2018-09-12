@@ -41,3 +41,4 @@ Processing test.php [PHP => 2 tokens in 1 lines]... DONE in 16ms (2 fixable viol
 => Fixing file: 0/2 violations remaining [made 4 passes]... DONE in 15ms
 Patched 1 file
 Time: 225ms; Memory: 6Mb
+```
